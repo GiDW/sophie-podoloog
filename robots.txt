@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sophie-podoloog.be/sitemap.xml
